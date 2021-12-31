@@ -1,4 +1,4 @@
-VTE LMS Mobile
+LMS Mobile App
 ==============
 
 Virtual Training Academy LMS Mobile App
